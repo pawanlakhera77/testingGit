@@ -1,1 +1,3 @@
-const name = "test"
+const name = "test4"
+const profile = "boss"
+const age = "22"
